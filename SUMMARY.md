@@ -1,8 +1,8 @@
 # Summary
 
 * [项目简介及运行注意事项](README.md)
-* [1. 项目立项阶段](requisition/README.md)
-    * [1.1 申请人](requisition/user/user.md)
-        * [1.1.1 登录](requisition/user/login.md)
-        * [1.1.2 修改个人信息](requisition/user/usermanage.md)
-        * [1.1.3 查看申请书](requisition/user/requisition.md)
+* [1. 项目申请人及负责人](user/README.md)
+    * [1.1 登录](user/login.md) 
+    * [1.2 项目立项阶段 ]()
+    * [1.3 项目实施阶段]()
+    * [1.2 项目结题阶段]()

@@ -1,0 +1,48 @@
+{
+    "title": "RPM_MANUAL",
+    "author": "ZhouWei",
+    "description": "_",
+    "language" : "zh-hans",
+    "gitbook" : "3.2.2",
+    "generator": "website", 
+    "links" : {
+        "sidebar" : {
+            "Home" : "/"
+        }
+    },
+    "output": null, 
+    "pdf": {
+        "fontSize": 24,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": false,
+        "paperSize": "a4"
+    },
+    "mobi": {
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": false,
+        "paperSize": "a4"
+    },
+    "styles": {
+        "website": "styles/website.css",
+        "ebook": "styles/ebook.css",
+        "pdf": "styles/pdf.css",
+        "mobi": "styles/mobi.css",
+        "epub": "styles/epub.css"
+    },  
+    "variables": {}
+}
