@@ -7,14 +7,14 @@
     "gitbook" : "3.2.2",
     "links" : {
         "sidebar" : {
-            "Home" : "http://www.qtech.edu.cn"
+            "主页" : "http://weizhou.coding.me/gitbook/_book/"
         }
     },
    "plugins": [
         "-lunr",
         "search-jieba",
 	"-highlight",
-	"prism", 
+	"prism",
         "advanced-emoji@0.1.5",
         "ace",
         "emphasize",
@@ -33,7 +33,7 @@
 	"donate",
 	"anchors",
         "anchor-navigation-ex",
-	"image-captions"	
+	"image-captions"
     ],
     "pluginsConfig": {
         "duoshuo": {
@@ -87,4 +87,3 @@
   }
     }
 }
-
