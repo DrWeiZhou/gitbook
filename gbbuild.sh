@@ -1,6 +1,9 @@
 #!/bin/bash
+cd ~/weizhougitbooks/gitbook
 git pull
-gitbook build
+cd ..
+gitbook build gitbook gitbook/intro
+cd gitbook
 git add -A
 git commit -m 'gitbook build finished'
 git push
