@@ -2,7 +2,7 @@
 #cd ~/weizhougitbooks/gitbook
 git pull
 #cd ..
-gitbook build . gitbook/intro
+gitbook build . ./intro
 #cd gitbook
 git add -A
 git commit -m 'gitbook build finished'
