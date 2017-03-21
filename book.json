@@ -7,7 +7,7 @@
     "gitbook" : "3.2.2",
     "links" : {
         "sidebar" : {
-            "说明书主页" : "http://weizhou.coding.me/gitbook/_book/"
+            "说明书主页" : ""
         }
     },
    "plugins": [
