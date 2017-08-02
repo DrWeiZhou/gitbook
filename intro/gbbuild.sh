@@ -3,7 +3,7 @@
 git pull
 #cd ..
 #gitbook build . ./intro
-gitbook pdf
+#gitbook pdf
 #cd gitbook
 git add -A
 git commit -m 'gitbook build finished'
