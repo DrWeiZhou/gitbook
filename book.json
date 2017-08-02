@@ -38,10 +38,10 @@
     ],
     "pluginsConfig": {
 		"parts-autoindex": {
-            "level": 3,
+            "level": 1,
             "trim": 0,
             "offset": 0
-        },		
+        },
         "duoshuo": {
             "short_name": "weigitbooktest",
             "theme": "default"
