@@ -11,8 +11,7 @@
         }
     },
    "plugins": [
-	"parts-autoindex",
-        "-lunr",
+	  "-lunr",
         "search-jieba",
 	"-highlight",
 	"prism",
@@ -23,7 +22,7 @@
         "include-codeblock",
 	"ace",
         "mermaid",
-        "tbfed-pagefooter",
+  
         "sectionx",
         "expandable-chapters",
         "codeblock-filename",
@@ -33,14 +32,10 @@
 	"baidu",
 	"donate",
 	"anchors",
+  "anchor-navigation-ex",
 	"image-captions"
     ],
     "pluginsConfig": {
-		"parts-autoindex": {
-            "level": 3,
-            "trim": 0,
-            "offset": 0
-        },
         "duoshuo": {
             "short_name": "weigitbooktest",
             "theme": "default"
