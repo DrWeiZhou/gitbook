@@ -11,6 +11,7 @@
         }
     },
    "plugins": [
+	"parts-autoindex",
         "-lunr",
         "search-jieba",
 	"-highlight",
@@ -36,6 +37,11 @@
 	"image-captions"
     ],
     "pluginsConfig": {
+		"parts-autoindex": {
+            "level": 4,
+            "trim": 0,
+            "offset": 0
+        },		
         "duoshuo": {
             "short_name": "weigitbooktest",
             "theme": "default"
