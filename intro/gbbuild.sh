@@ -1,5 +1,5 @@
 #!/bin/bash
-#cd ~/weizhougitbooks/gitbook
+cd ~/weizhougitbooks/gitbook
 git pull
 #cd ..
 gitbook build . ./intro
