@@ -75,12 +75,11 @@
           "alipayText": "支付宝打赏",
           "wechatText": "微信打赏"
         },
-  "theme-default": {
+  "theme-fs": {
                   "showLevel": true
               },
 	"anchor-navigation-ex":{
-            "associatedWithSummary":true,
-           "mode":"''"
+            "associatedWithSummary":true
         },
 	"image-captions": {
           "caption": "Image _PAGE_LEVEL_._PAGE_IMAGE_NUMBER_ - _CAPTION_"
