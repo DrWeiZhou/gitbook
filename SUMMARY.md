@@ -1,6 +1,6 @@
 # Summary
 
-* [0.项目简介及运行注意事项](README.md)
+* [项目简介及运行注意事项](README.md)
 * [项目申请人及负责人](user/README.md)
     * [登录及个人信息管理](user/login.md)
     * [1.2 项目立项阶段 ](user/userRequisition.md)

@@ -11,7 +11,7 @@
         }
     },
    "plugins": [
-     "parts-autoindex",
+    "anchor-navigation-ex",
 	  "-lunr",
         "search-jieba",
 	"-highlight",
@@ -75,8 +75,12 @@
           "alipayText": "支付宝打赏",
           "wechatText": "微信打赏"
         },
+  "theme-default": {
+                  "showLevel": true
+              },
 	"anchor-navigation-ex":{
-            "isRewritePageTitle":true
+            "associatedWithSummary":true,
+            mode:''
         },
 	"image-captions": {
           "caption": "Image _PAGE_LEVEL_._PAGE_IMAGE_NUMBER_ - _CAPTION_"
