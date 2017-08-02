@@ -79,7 +79,7 @@
                   "showLevel": true
               },
 	"anchor-navigation-ex":{
-            
+            "associatedWithSummary":true
         },
 	"image-captions": {
           "caption": "Image _PAGE_LEVEL_._PAGE_IMAGE_NUMBER_ - _CAPTION_"
