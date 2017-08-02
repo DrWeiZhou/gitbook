@@ -35,11 +35,7 @@
 	"anchor-navigation-ex"
     ],
     "pluginsConfig": {
-      "anchor-navigation-ex":{
-              "associatedWithSummary":true,
-             "showLevel":true
-          },
-        "duoshuo": {
+            "duoshuo": {
             "short_name": "weigitbooktest",
             "theme": "default"
         },
@@ -76,7 +72,7 @@
           "button": "赏",
           "alipayText": "支付宝打赏",
           "wechatText": "微信打赏"
-        },		
+        },
         "theme-fs": {
                         "showLevel": true
                     },
@@ -90,6 +86,10 @@
     		"css": [
       		"prismjs/themes/prism-coy.css"
     	]
-  }
+  },
+  "anchor-navigation-ex":{
+          "associatedWithSummary":true,
+         "showLevel":true
+      }
     }
 }
