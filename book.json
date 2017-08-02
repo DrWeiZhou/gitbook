@@ -35,6 +35,10 @@
 	"anchor-navigation-ex"
     ],
     "pluginsConfig": {
+      "anchor-navigation-ex":{
+              "associatedWithSummary":true,
+             "showLevel":true
+          },
         "duoshuo": {
             "short_name": "weigitbooktest",
             "theme": "default"
@@ -72,11 +76,7 @@
           "button": "赏",
           "alipayText": "支付宝打赏",
           "wechatText": "微信打赏"
-        },
-		"anchor-navigation-ex":{
-            "associatedWithSummary":true,
-           "showLevel":true
-        },
+        },		
         "theme-fs": {
                         "showLevel": true
                     },
