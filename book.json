@@ -11,7 +11,7 @@
         }
     },
    "plugins": [
-    "anchor-navigation-ex",
+    "parts-autoindex",
 	  "-lunr",
         "search-jieba",
 	"-highlight",
