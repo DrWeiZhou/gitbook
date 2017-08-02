@@ -37,7 +37,7 @@
     ],
     "pluginsConfig": {
 		"parts-autoindex": {
-            "level": 1,
+            "level": 3,
             "trim": 0,
             "offset": 0
         },
