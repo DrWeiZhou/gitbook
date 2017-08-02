@@ -79,7 +79,8 @@
                   "showLevel": true
               },
 	"anchor-navigation-ex":{
-            "associatedWithSummary":true
+            "associatedWithSummary":true,
+           "mode":"pageTop"
         },
 	"image-captions": {
           "caption": "Image _PAGE_LEVEL_._PAGE_IMAGE_NUMBER_ - _CAPTION_"
