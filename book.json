@@ -22,7 +22,7 @@
         "include-codeblock",
 	"ace",
         "mermaid",
-  
+
         "sectionx",
         "expandable-chapters",
         "codeblock-filename",
@@ -32,7 +32,7 @@
 	"baidu",
 	"donate",
 	"anchors",
-  "anchor-navigation-ex",
+
 	"image-captions"
     ],
     "pluginsConfig": {
