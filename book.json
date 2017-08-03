@@ -12,6 +12,7 @@
     },
    "plugins": [
      "anchor-navigation-ex",
+     "search-jieba",
     "-lunr",
 	  "-highlight",
 	  "prism",
@@ -35,7 +36,9 @@
             ]
         },
       "anchor-navigation-ex":{
-          "mode": ""
+          "multipleH1":false,
+          "mode": "",
+          "associatedWithSummary": true
       },
       "theme-default": {
            "showLevel": true
