@@ -13,7 +13,6 @@
    "plugins": [
      "anchor-navigation-ex",
     "-lunr",
-    "search-jieba",
 	  "-highlight",
 	  "prism",
     "emphasize",
