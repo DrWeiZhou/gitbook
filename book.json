@@ -36,7 +36,8 @@
             ]
         },
       "anchor-navigation-ex":{
-        "associatedWithSummary": true          
+        "associatedWithSummary": true,
+          "mode": ""          
       },
       "theme-default": {
            "showLevel": true
