@@ -11,13 +11,13 @@
         }
     },
    "plugins": [
-     "anchor-navigation-ex"
+     "anchor-navigation-ex",
     "-lunr",
     "search-jieba",
 	  "-highlight",
 	  "prism",
     "emphasize",
-  	"splitter"  	
+  	"splitter"
     ],
     "pluginsConfig": {
         "github": {
