@@ -7,7 +7,7 @@
     "gitbook" : "3.2.2",
     "links" : {
         "sidebar" : {
-            "说明书主页" : "/gitbook/intro"
+            "说明书主页" : "https://weizhou.gitbooks.io/gitbook/"
         }
     },
    "plugins": [
@@ -36,8 +36,7 @@
             ]
         },
       "anchor-navigation-ex":{
-          "mode": "",
-          "associatedWithSummary": true
+        "associatedWithSummary": true          
       },
       "theme-default": {
            "showLevel": true
