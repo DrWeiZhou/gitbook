@@ -1,4 +1,6 @@
-# 项目实施阶段（项目负责人）
+<div style="text-align:center;border:0px solid #000; font-size:30px;font-weight:800;background-color:#F5F5F5">
+项目实施阶段（项目负责人）
+</div>
 
 　　用户在主界面上部导航条点击`项目实施阶段`，即可进入实施阶段界面。
 ## 项目检查申报

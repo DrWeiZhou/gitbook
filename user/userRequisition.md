@@ -1,4 +1,4 @@
-<div style="border:1px solid #000; font-size:30px;">
+<div style="text-align:center;border:0px solid #000; font-size:36px;font-weight:800;background-color:#F5F5F5">
 项目立项阶段（申请人）
 </div>
 

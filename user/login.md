@@ -1,4 +1,6 @@
-# 登录及个人信息管理(申请人)
+<div style="text-align:center;border:0px solid #000; font-size:36px;font-weight:800;background-color:#F5F5F5">
+登录及个人信息管理(申请人)
+</div>
 
 ## 登录
 　　项目申请人打开“科研管理系统”主页，显示如下登录页面，输入用户名与密码后回车或点击`登录`按钮即可：
