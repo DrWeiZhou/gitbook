@@ -1,4 +1,4 @@
-<div style="text-align:center;border:0px solid #000; font-size:36px;font-weight:800;background-color:#F5F5F5">
+<div style="text-align:center;border:1px dashed   #000; font-size:36px;font-weight:800;background-color:#F5F5F5">
 项目立项阶段（申请人）
 </div>
 
@@ -22,18 +22,21 @@
   　　3. 点击`课题主要参与人信息`，如下图，可以完善课题负责人的基本信息，并且添加课题主要参与人。
   ![课题主要参与人信息](../images/requisition/userParticipantInfo.jpg)
   点击![保存](../images/requisition/save.jpg)按钮录入信息。
+
   　　4. 点击`课题可行性研究报告`，如下图，填写完所有带*符号的必填项，保存。
   ![课题可行性研究报告](../images/requisition/userFeasibleReport.jpg)
   　　5. 点击`课题经费预算`，如下图，经费预算分为两部分，第一部分是来源合计，在重点课题类型里，填写首年度和次年度经费后会自动计算出总额。第二部分是支出合计，根据页面文字提示填写完整并保存。
   ![课题经费预算信息](../images/requisition/userFundsInfo.jpg)
   　　6. 若发现填写有误，则可点击`删除`操作删除，只可在第一阶段进行删除。
-    ***注意：如果课题信息未填写完整，点开`我的课题申请书`界面，在刚刚新建的重点课题的操作一栏里，提交课题后会提示信息不完整的错误，如下图。因此点击编辑操作将信息完善后才能成功提交。***
+
+***注意：如果课题信息未填写完整，点开`我的课题申请书`界面，在刚刚新建的重点课题的操作一栏里，提交课题后会提示信息不完整的错误，如下图。因此点击编辑操作将信息完善后才能成功提交。***
   ![提交信息不完整](../images/requisition/userSubError.jpg)
 *  　以 `面上课题`为例
 
     1. 选择并点击新建课题后，转到课题基础信息界面，如下图所示。根据系统提示输入课题基本信息。
 ![面上课题基础信息](../images/requisition/userExample2.jpg)
     2. 之后操作同`重点课题`。
+
 ### 课题成功提交后的操作
 　　当课题成功提交后，在我的申请材料，课题状态一栏下显示的是单位初审状态。在操作一栏中，如下图。
 ![成功提交后操作](../images/requisition/userSubOperate.jpg)
