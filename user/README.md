@@ -1,4 +1,6 @@
-# 项目申请人及负责人
+<div style="text-align:center;border:0px solid #000; font-size:36px;font-weight:800;background-color:#F5F5F5">
+项目申请人及负责人
+</div>
 
 　　申请人/负责人指开始建立项目，提交各种材料的操作人员。在项目立项阶段，该操作人员被称为申请人，如果立项成功，在项目实施和项目结题阶段，被称作负责人。项目申请人和负责人为同一人。
 
