@@ -3,7 +3,7 @@
 * [项目简介及运行注意事项](README.md)
 * [项目申请人及负责人]()
     * [登录及个人信息管理(负责人)](user/login.md)
-    * [项目立项阶段 ](user/userRequisition.md)
+    * [项目立项阶段(负责人) ](user/userRequisition.md)
     * [项目实施阶段(负责人)](user/deploy.md)
     * [项目结题阶段(负责人)](user/finish.md)
 * [单位管理员]()

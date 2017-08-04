@@ -1,4 +1,4 @@
-<div style="text-align:center;border:0px solid #000; font-size:36px;font-weight:800;background-color:#F5F5F5">
+<div style="text-align:center;border:1px dashed   #000; font-size:36px;font-weight:800;background-color:#F5F5F5">
 项目简介及运行注意事项
 </div>
 
