@@ -1,5 +1,5 @@
 <div style="text-align:center;border:1px dashed   #000; font-size:36px;font-weight:800;background-color:#F5F5F5">
- 项目立项阶段
+ 项目立项阶段（评审专家）
  </div>
 
 　　专家在主界面上部导航条点击`项目立项阶段`，即可进入立项阶段界面。
